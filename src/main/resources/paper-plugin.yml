@@ -1,0 +1,4 @@
+name: AntiBlockPlace
+version: '${project.version}'
+main: net.craftsupport.antiblockplace.AntiBlockPlace
+api-version: '1.19'
